@@ -30,6 +30,7 @@
 # Visual Studio 2015
 .vs/
 bin/
+doc/
 *.opendb
 *.VC.VC.db
 *.VC.db
@@ -37,3 +38,8 @@ bin/
 # Specific to this project
 glfw3.h
 glfw3native.h
+eglew.h
+glew.h
+glxew.h
+wglew.h
+LICENSE.TXT
